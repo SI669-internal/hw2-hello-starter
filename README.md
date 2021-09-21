@@ -8,11 +8,11 @@ Follow these steps to get your project ready to work on:
 4. start working on your project
 
 
-You will start with an app that looks like this:
+You will start with an app that looks like this:<br/>
 <img src="https://github.com/SI669-internal/hw2-hello-starter/blob/main/assets/hw2-hello-before.png?raw=true" width=300/>
 <br/>
 
-Which you will transform to look like this:
+Which you will transform to look like this: <br/>
 <img src="https://github.com/SI669-internal/hw2-hello-starter/blob/main/assets/hw2-hello-after.png?raw=true" width=300/>
 <br/>
 
