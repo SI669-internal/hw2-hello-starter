@@ -9,11 +9,11 @@ Follow these steps to get your project ready to work on:
 
 
 You will start with an app that looks like this:
-<img src="https://github.com/SI669-classroom-f20/f20-hw2-hello-starter/blob/master/helloApp.png?raw=true" width=300/>
+<img src="https://github.com/SI669-internal/hw2-hello-starter/blob/main/assets/hw2-hello-before.png?raw=true" width=300/>
 <br/>
 
 Which you will transform to look like this:
-<img src="https://github.com/SI669-classroom-f20/f20-hw2-hello-starter/blob/master/helloApp.png?raw=true" width=300/>
+<img src="https://github.com/SI669-internal/hw2-hello-starter/blob/main/assets/hw2-hello-after.png?raw=true" width=300/>
 <br/>
 
 There are a number of ways to do this, but here are some constraints you must follow:
