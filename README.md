@@ -13,15 +13,15 @@ You will start with an app that looks like this:<br/>
 <img src="https://github.com/SI669-internal/hw2-hello-starter/blob/main/assets/hw2-hello-before.png?raw=true" width=300/>
 <br/>
 
-Which you will transform to look like this: <br/>
+Which you will transform to look like this (solution reference image): <br/>
 <img src="https://github.com/SI669-internal/hw2-hello-starter/blob/main/assets/hw2-hello-after.png?raw=true" width=300/>
 <br/>
 
 There are a number of ways to do this, but here are some constraints you must follow:
 1. Only use React Native's `View` and `Text` Commponents.
 2. You may add or modify whatever `View` and/or `Text` Components you like, as well as their styles.
-3. The dimensions of your components (e.g., `width`, `height`, `margin`, etc.) should be relative (i.e., use `width:'90%'` instead of `width: '480'`)
-4. The sample files were all produced using named StyleSheet colors (e.g., 'green', 'purple'), but you may use other colors--even changing the color scheme entirely!--as long as you use the same number of colors and same general contrast pairs (e.g., green-white and white-green).
+3. The dimensions of your components (e.g., `width`, `height`, `margin`, etc.) should be relative (i.e., use `width:'90%'` instead of `width: 480`)
+4. The example solutions (see below) were all produced using named StyleSheet colors (e.g., 'green', 'purple'), but you may use other colors--even changing the color scheme entirely!--as long as you use the same number of colors (or more, if you so desire). Make sure that whatever you do is legible and easy to grade from just looking at your screenshot/screencast.
 5. You should get the dimensions and layouts of all components as close as you can to those shown in the example. They don't have to match exactly but they should be pretty close.
 
 ### Grading (up to 120 points)
