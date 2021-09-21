@@ -47,4 +47,4 @@ Modify the topmost panel so that it displays a different "Hello World!" phrase e
 ### Submitting your work
 If you are only doing the main part of the assignment, you just need to submit a screen shot image (e.g., png or jpeg) to Canvas (via the HW2 assignment). If you are doing the Extra Credit, you only need to submit a link to an online screencast video showing your app in action.
 
-In both cases, be sure to commit and push your changes 
+In both cases, be sure to commit and push your changes to the repo that was created for you before the deadline for full credit.
