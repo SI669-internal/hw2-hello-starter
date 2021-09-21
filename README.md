@@ -3,9 +3,10 @@
 Follow these steps to get your project ready to work on:
 
 1. clone this repo to your development machine
-3. cd into the new directory (e.g., `$ cd hw2-hello-numerator`)
+3. cd into the new directory (e.g., `$ cd si-669-hw2-hello-hello-hello-numerator`)
 3. run `npm install` in the project directory (this will install all of the packages listed in package.json)
-4. start working on your project
+4. run `expo start` to make sure everything is set up correctly
+5. start working on your project
 
 
 You will start with an app that looks like this:<br/>
@@ -23,14 +24,14 @@ There are a number of ways to do this, but here are some constraints you must fo
 4. The sample files were all produced using named StyleSheet colors (e.g., 'green', 'purple'), but you may use other colors--even changing the color scheme entirely!--as long as you use the same number of colors and same general contrast pairs (e.g., green-white and white-green).
 5. You should get the dimensions and layouts of all components as close as you can to those shown in the example. They don't have to match exactly but they should be pretty close.
 
-
-
 ### Grading (up to 120 points)
 | No. | Requirement  | Points |
 | --- | ------------- | ------------- |
-| 1 | Topmost section looks very similar to topmost section in reference image | 40  |
-| 2 | Middle section looks very similar to middle section in reference image | 40 |
-| 3 | Bottommost section looks very similar to bottommost section in reference image | 40 |
+| 1 | Topmost section looks very similar to topmost section in reference image | 25  |
+| 2 | Middle section looks very similar to middle section in reference image | 25 |
+| 3 | Bottommost section looks very similar to bottommost section in reference image | 25 |
+| 4 | Code makes good use of nested `View` and `Text` components, as well as StyleSheet properties, including `flex`, `flexDirection`, `justifyContent`, `alignItems`, `height`, `width`, and `margin` (or its variants like `marginTop`, `marginVertical`, etc.) | 25 |
+| 5 | Code makes appropriate use of relative, rather than absolute, sizes (e.g., XX%) | 20 |
 | | **Total** | **120**
 
 
@@ -42,3 +43,8 @@ Modify the topmost panel so that it displays a different "Hello World!" phrase e
 | --- | ------------- | ------------- |
 | X1 | Topmost panel displays a different "Hello World!" phrase every second. | 4  |
 | | **Total** | **4**
+
+### Submitting your work
+If you are only doing the main part of the assignment, you just need to submit a screen shot image (e.g., png or jpeg) to Canvas (via the HW2 assignment). If you are doing the Extra Credit, you only need to submit a link to an online screencast video showing your app in action.
+
+In both cases, be sure to commit and push your changes 
