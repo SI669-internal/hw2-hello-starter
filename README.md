@@ -5,7 +5,7 @@ Follow these steps to get your project ready to work on:
 1. clone this repo to your development machine
 3. cd into the new directory (e.g., `$ cd si-669-hw2-hello-hello-hello-numerator`)
 3. run `npm install` in the project directory (this will install all of the packages listed in package.json)
-4. run `expo start` to make sure everything is set up correctly
+4. run `npx expo start` to make sure everything is set up correctly
 5. start working on your project
 
 
@@ -36,7 +36,7 @@ There are a number of ways to do this, but here are some constraints you must fo
 
 
 ## Extra credit (Up to 4 points):
-Modify the topmost panel so that it displays a different "Hello World!" phrase every second. Please check out the [demo video](https://www.loom.com/share/5163cc3b19f14bc2a4356e1d1c27a3de) to see how this should work.
+Modify the topmost panel so that it displays a different "Hello World!" phrase every second. Please check out the [demo video](https://www.loom.com/share/5163cc3b19f14bc2a4356e1d1c27a3de) to see how this should work. Note that some React (Native) concepts we haven't covered yet will be needed to make the extra credit work, specifically the React (Native) "state" concept, which we will talk about next week. To master this challenge you'll have to do some reading ahead and/or research of your own!
 
 ### Grading
 | No. | Requirement  | Points |
